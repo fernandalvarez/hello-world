@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+hola soy fers me gusta dormir,comer ,ver series 
